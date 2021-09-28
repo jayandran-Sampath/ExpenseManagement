@@ -1,0 +1,1 @@
+insert into expense(ID,DESCRIPTION,AMOUNT,TYPE,DATE) values (1,'Paid to Auto',200.50,'CAB_FARE',TO_DATE('20-10-2021','dd-MM-yyyy'))
